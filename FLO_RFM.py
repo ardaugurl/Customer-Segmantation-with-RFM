@@ -426,4 +426,3 @@ cltv_df.groupby("segment").agg(
 
 
 
-
